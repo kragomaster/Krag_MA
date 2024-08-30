@@ -5,7 +5,7 @@ Info: Alles aus 14/15 war ursprünglich zum Testen und ist nicht eingegangen in 
 Daten aus Wyscout 18/19. Als Ordner 'Wyscout_18_19' eigenständig hinzuzufügen.
 Hier: 
 'shots_model.csv' enthält alle Schüsse, 'header_model.csv' alle Kopfbälle, etc. -> siehe 'shot_analysis.ipynb'. Dadurch Datenquelle hier nicht explizit benötigt.
--> Lediglich noch Erzeugung 'matches_ger_with_goals_count.csv' und 'xG_full.csv', der die einzelnen Dateien aus Output 'shot_analysis.ipynb' erzeugt, hier nicht aufgeführt. 
+
 
 - 'FCPython.py' zur Erstellung der Spielfelder aus Datenquelle FriendsOfTracking, siehe Quellen. 
 
@@ -14,7 +14,8 @@ Aufstellen eigenes Expected Goals Modell:
     Erstellt die 'shots_model.csv' etc. aus Ordner 'Wyscout_18_19'.
     Dazu X und Y Koordinaten jeder Aktion kalkulieren zB.. 
 
-
+- 'get_matches_with_goal_count.ipynb'
+    - erzeugt Datei 'matches_ger_with_goals_count.csv'   
 - 'shot_analysis.ipynb': 
     - Input: 'shots_model.csv' + vglw. für Kopfbälle etc. mit Daten aller Schüsse aus Datensatz von 'Wyscout_18_19' aus Saison 17/18 plus WM und EM 
     - Output:
@@ -36,7 +37,9 @@ Aufstellen eigenes Expected Goals Modell:
         - 'xG_shot.csv' berechnete xG für Schüsse 
         - 'xG_pen.csv' berechnete xG für Elfmeter 
         - 'xG_set_pieces.csv' berechnete xG für Standards 
-        - 'xG_head.csv' ... für Kopfbälle 
+        - 'xG_head.csv' ... für Kopfbälle
+        - 'xG_full.csv' mit allem zur weiteren Verabeitung
+
     
     Berechnet die xGs für ggb. Schüsse/Kopfbälle/Standards/Elfmeter plus Analyse 
 

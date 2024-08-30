@@ -2,6 +2,10 @@
 ## Programmiercode Masterarbeit Colin Krag 
 ## Statistische Paarvergleichsmodelle für Spielstärken im Fußball unter Einbeziehung von Expected Goals: Modellanpassung und Prädiktion
 Info: Alles aus 14/15 war ursprünglich zum Testen und ist nicht eingegangen in die Arbeit 
+Daten aus Wyscout 18/19. Als Ordner 'Wyscout_18_19' eigenständig hinzuzufügen.
+Hier: 
+'shots_model.csv' enthält alle Schüsse, 'header_model.csv' alle Kopfbälle, etc. -> siehe 'shot_analysis.ipynb'. Dadurch Datenquelle hier nicht explizit benötigt.
+-> Lediglich noch Erzeugung 'matches_ger_with_goals_count.csv' und 'xG_full.csv', der die einzelnen Dateien aus Output 'shot_analysis.ipynb' erzeugt, hier nicht aufgeführt. 
 
 - 'FCPython.py' zur Erstellung der Spielfelder aus Datenquelle FriendsOfTracking, siehe Quellen. 
 

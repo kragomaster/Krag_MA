@@ -1,0 +1,307 @@
+,team_home,team_away,ordresp
+0,Bayern München,Stuttgart,5.0
+1,Hoffenheim,Borussia Dortmund,1.0
+2,Hertha BSC,RB Leipzig,5.0
+3,Freiburg,Augsburg,1.0
+4,Schalke 04,Eintracht Frankfurt,2.0
+5,Bayer Leverkusen,Hannover 96,2.0
+6,Hamburger SV,Borussia M'gladbach,2.0
+7,Mainz 05,Werder Bremen,4.0
+8,Wolfsburg,Köln,1.0
+9,Borussia Dortmund,Mainz 05,4.0
+10,RB Leipzig,Wolfsburg,1.0
+11,Köln,Bayern München,5.0
+12,Werder Bremen,Bayer Leverkusen,3.0
+13,Borussia M'gladbach,Freiburg,1.0
+14,Eintracht Frankfurt,Hamburger SV,1.0
+15,Augsburg,Schalke 04,4.0
+16,Hannover 96,Hertha BSC,1.0
+17,Stuttgart,Hoffenheim,1.0
+18,Werder Bremen,Borussia Dortmund,3.0
+19,Mainz 05,RB Leipzig,1.0
+20,Bayer Leverkusen,Stuttgart,4.0
+21,Bayern München,Eintracht Frankfurt,1.0
+22,Hertha BSC,Augsburg,3.0
+23,Freiburg,Köln,2.0
+24,Schalke 04,Borussia M'gladbach,3.0
+25,Wolfsburg,Hamburger SV,5.0
+26,Hoffenheim,Hannover 96,1.0
+27,Köln,Schalke 04,3.0
+28,Augsburg,Mainz 05,1.0
+29,Borussia Dortmund,Bayer Leverkusen,1.0
+30,RB Leipzig,Hoffenheim,5.0
+31,Eintracht Frankfurt,Hertha BSC,5.0
+32,Hamburger SV,Freiburg,2.0
+33,Hannover 96,Bayern München,5.0
+34,Stuttgart,Werder Bremen,1.0
+35,Borussia M'gladbach,Wolfsburg,1.0
+36,Mainz 05,Freiburg,1.0
+37,Werder Bremen,RB Leipzig,3.0
+38,Schalke 04,Borussia Dortmund,1.0
+39,Bayern München,Borussia M'gladbach,1.0
+40,Hoffenheim,Hamburger SV,1.0
+41,Hertha BSC,Köln,2.0
+42,Bayer Leverkusen,Eintracht Frankfurt,1.0
+43,Stuttgart,Hannover 96,3.0
+44,Wolfsburg,Augsburg,3.0
+45,RB Leipzig,Bayer Leverkusen,5.0
+46,Eintracht Frankfurt,Hoffenheim,3.0
+47,Borussia Dortmund,Stuttgart,1.0
+48,Hamburger SV,Schalke 04,2.0
+49,Köln,Mainz 05,3.0
+50,Freiburg,Wolfsburg,5.0
+51,Borussia M'gladbach,Hertha BSC,2.0
+52,Augsburg,Bayern München,5.0
+53,Hannover 96,Werder Bremen,2.0
+54,Mainz 05,Borussia M'gladbach,3.0
+55,Werder Bremen,Eintracht Frankfurt,2.0
+56,Hertha BSC,Wolfsburg,3.0
+57,Bayern München,Borussia Dortmund,1.0
+58,Hoffenheim,Köln,1.0
+59,Schalke 04,Freiburg,1.0
+60,Bayer Leverkusen,Augsburg,3.0
+61,Hannover 96,RB Leipzig,4.0
+62,Stuttgart,Hamburger SV,3.0
+63,RB Leipzig,Bayern München,2.0
+64,Köln,Bayer Leverkusen,1.0
+65,Borussia Dortmund,Hannover 96,2.0
+66,Wolfsburg,Schalke 04,4.0
+67,Borussia M'gladbach,Hoffenheim,3.0
+68,Eintracht Frankfurt,Mainz 05,1.0
+69,Augsburg,Werder Bremen,5.0
+70,Hamburger SV,Hertha BSC,4.0
+71,Freiburg,Stuttgart,4.0
+72,Werder Bremen,Köln,1.0
+73,Borussia Dortmund,Eintracht Frankfurt,2.0
+74,Stuttgart,RB Leipzig,3.0
+75,Bayer Leverkusen,Borussia M'gladbach,1.0
+76,Bayern München,Hamburger SV,1.0
+77,Hoffenheim,Wolfsburg,1.0
+78,Hertha BSC,Freiburg,3.0
+79,Hannover 96,Augsburg,5.0
+80,Mainz 05,Schalke 04,4.0
+81,Freiburg,Bayern München,5.0
+82,Köln,Stuttgart,4.0
+83,RB Leipzig,Borussia Dortmund,3.0
+84,Schalke 04,Hertha BSC,2.0
+85,Eintracht Frankfurt,Hannover 96,2.0
+86,Augsburg,Hoffenheim,5.0
+87,Hamburger SV,Mainz 05,3.0
+88,Wolfsburg,Bayer Leverkusen,4.0
+89,Borussia M'gladbach,Werder Bremen,3.0
+90,Borussia Dortmund,Augsburg,3.0
+91,RB Leipzig,Köln,4.0
+92,Bayer Leverkusen,Schalke 04,5.0
+93,Werder Bremen,Hamburger SV,2.0
+94,Bayern München,Hertha BSC,3.0
+95,Hoffenheim,Freiburg,3.0
+96,Hannover 96,Borussia M'gladbach,4.0
+97,Stuttgart,Eintracht Frankfurt,2.0
+98,Mainz 05,Wolfsburg,3.0
+99,Eintracht Frankfurt,RB Leipzig,2.0
+100,Borussia M'gladbach,Borussia Dortmund,4.0
+101,Augsburg,Stuttgart,4.0
+102,Schalke 04,Hoffenheim,2.0
+103,Köln,Hannover 96,3.0
+104,Freiburg,Werder Bremen,2.0
+105,Hamburger SV,Bayer Leverkusen,4.0
+106,Wolfsburg,Bayern München,4.0
+107,Hertha BSC,Mainz 05,5.0
+108,Werder Bremen,Wolfsburg,1.0
+109,Stuttgart,Borussia M'gladbach,2.0
+110,Bayern München,Schalke 04,2.0
+111,Borussia Dortmund,Hamburger SV,1.0
+112,Hoffenheim,Mainz 05,1.0
+113,Eintracht Frankfurt,Köln,1.0
+114,Bayer Leverkusen,Hertha BSC,5.0
+115,Hannover 96,Freiburg,2.0
+116,RB Leipzig,Augsburg,1.0
+117,Hamburger SV,Hannover 96,3.0
+118,Augsburg,Eintracht Frankfurt,1.0
+119,Borussia M'gladbach,RB Leipzig,4.0
+120,Hertha BSC,Hoffenheim,3.0
+121,Freiburg,Bayer Leverkusen,3.0
+122,Schalke 04,Werder Bremen,4.0
+123,Mainz 05,Bayern München,5.0
+124,Wolfsburg,Stuttgart,3.0
+125,Köln,Borussia Dortmund,4.0
+126,Hannover 96,Wolfsburg,4.0
+127,Bayer Leverkusen,Mainz 05,1.0
+128,Werder Bremen,Hertha BSC,3.0
+129,Bayern München,Hoffenheim,1.0
+130,Borussia Dortmund,Freiburg,3.0
+131,RB Leipzig,Hamburger SV,3.0
+132,Köln,Augsburg,3.0
+133,Stuttgart,Schalke 04,5.0
+134,Eintracht Frankfurt,Borussia M'gladbach,1.0
+135,Schalke 04,Hannover 96,3.0
+136,Bayern München,Werder Bremen,1.0
+137,Hamburger SV,Köln,5.0
+138,Hoffenheim,Bayer Leverkusen,5.0
+139,Freiburg,RB Leipzig,2.0
+140,Borussia M'gladbach,Augsburg,1.0
+141,Mainz 05,Stuttgart,2.0
+142,Wolfsburg,Eintracht Frankfurt,5.0
+143,Hertha BSC,Borussia Dortmund,3.0
+144,Borussia Dortmund,Wolfsburg,3.0
+145,Köln,Borussia M'gladbach,2.0
+146,RB Leipzig,Schalke 04,1.0
+147,Eintracht Frankfurt,Freiburg,3.0
+148,Werder Bremen,Hoffenheim,3.0
+149,Augsburg,Hamburger SV,2.0
+150,Hannover 96,Mainz 05,2.0
+151,Stuttgart,Hertha BSC,2.0
+152,Bayer Leverkusen,Bayern München,5.0
+153,RB Leipzig,Hertha BSC,4.0
+154,Hannover 96,Bayer Leverkusen,3.0
+155,Borussia Dortmund,Hoffenheim,2.0
+156,Eintracht Frankfurt,Schalke 04,3.0
+157,Köln,Wolfsburg,2.0
+158,Werder Bremen,Mainz 05,3.0
+159,Augsburg,Freiburg,3.0
+160,Stuttgart,Bayern München,4.0
+161,Borussia M'gladbach,Hamburger SV,1.0
+162,Bayern München,Köln,2.0
+163,Hertha BSC,Hannover 96,1.0
+164,Schalke 04,Augsburg,2.0
+165,Bayer Leverkusen,Werder Bremen,2.0
+166,Hoffenheim,Stuttgart,2.0
+167,Hamburger SV,Eintracht Frankfurt,4.0
+168,Mainz 05,Borussia Dortmund,5.0
+169,Freiburg,Borussia M'gladbach,2.0
+170,Wolfsburg,RB Leipzig,3.0
+171,Augsburg,Hertha BSC,3.0
+172,Hannover 96,Hoffenheim,1.0
+173,Köln,Freiburg,4.0
+174,Borussia M'gladbach,Schalke 04,3.0
+175,Borussia Dortmund,Werder Bremen,4.0
+176,RB Leipzig,Mainz 05,3.0
+177,Eintracht Frankfurt,Bayern München,4.0
+178,Hamburger SV,Wolfsburg,3.0
+179,Stuttgart,Bayer Leverkusen,5.0
+180,Wolfsburg,Borussia M'gladbach,1.0
+181,Hertha BSC,Eintracht Frankfurt,4.0
+182,Schalke 04,Köln,3.0
+183,Bayern München,Hannover 96,1.0
+184,Hoffenheim,RB Leipzig,1.0
+185,Werder Bremen,Stuttgart,2.0
+186,Bayer Leverkusen,Borussia Dortmund,3.0
+187,Mainz 05,Augsburg,5.0
+188,Freiburg,Hamburger SV,3.0
+189,Köln,Hertha BSC,5.0
+190,Hamburger SV,Hoffenheim,1.0
+191,Borussia M'gladbach,Bayern München,2.0
+192,Borussia Dortmund,Schalke 04,3.0
+193,RB Leipzig,Werder Bremen,1.0
+194,Freiburg,Mainz 05,2.0
+195,Augsburg,Wolfsburg,2.0
+196,Eintracht Frankfurt,Bayer Leverkusen,4.0
+197,Hannover 96,Stuttgart,3.0
+198,Werder Bremen,Hannover 96,1.0
+199,Schalke 04,Hamburger SV,1.0
+200,Hertha BSC,Borussia M'gladbach,5.0
+201,Bayern München,Augsburg,1.0
+202,Hoffenheim,Eintracht Frankfurt,3.0
+203,Bayer Leverkusen,RB Leipzig,3.0
+204,Mainz 05,Köln,2.0
+205,Wolfsburg,Freiburg,1.0
+206,Stuttgart,Borussia Dortmund,2.0
+207,Wolfsburg,Hertha BSC,3.0
+208,Köln,Hoffenheim,5.0
+209,Borussia Dortmund,Bayern München,5.0
+210,RB Leipzig,Hannover 96,2.0
+211,Freiburg,Schalke 04,4.0
+212,Borussia M'gladbach,Mainz 05,3.0
+213,Augsburg,Bayer Leverkusen,3.0
+214,Hamburger SV,Stuttgart,1.0
+215,Eintracht Frankfurt,Werder Bremen,2.0
+216,Stuttgart,Freiburg,1.0
+217,Werder Bremen,Augsburg,5.0
+218,Bayern München,RB Leipzig,1.0
+219,Hoffenheim,Borussia M'gladbach,5.0
+220,Hertha BSC,Hamburger SV,2.0
+221,Schalke 04,Wolfsburg,3.0
+222,Bayer Leverkusen,Köln,2.0
+223,Hannover 96,Borussia Dortmund,1.0
+224,Mainz 05,Eintracht Frankfurt,3.0
+225,Wolfsburg,Hoffenheim,3.0
+226,Freiburg,Hertha BSC,3.0
+227,Köln,Werder Bremen,3.0
+228,Hamburger SV,Bayern München,4.0
+229,RB Leipzig,Stuttgart,2.0
+230,Borussia M'gladbach,Bayer Leverkusen,5.0
+231,Eintracht Frankfurt,Borussia Dortmund,3.0
+232,Augsburg,Hannover 96,4.0
+233,Schalke 04,Mainz 05,1.0
+234,Werder Bremen,Borussia M'gladbach,5.0
+235,Bayer Leverkusen,Wolfsburg,3.0
+236,Borussia Dortmund,RB Leipzig,4.0
+237,Bayern München,Freiburg,1.0
+238,Hoffenheim,Augsburg,3.0
+239,Hertha BSC,Schalke 04,5.0
+240,Mainz 05,Hamburger SV,2.0
+241,Hannover 96,Eintracht Frankfurt,4.0
+242,Stuttgart,Köln,2.0
+243,Köln,RB Leipzig,4.0
+244,Hertha BSC,Bayern München,3.0
+245,Freiburg,Hoffenheim,2.0
+246,Hamburger SV,Werder Bremen,3.0
+247,Borussia M'gladbach,Hannover 96,2.0
+248,Eintracht Frankfurt,Stuttgart,2.0
+249,Augsburg,Borussia Dortmund,4.0
+250,Wolfsburg,Mainz 05,3.0
+251,Schalke 04,Bayer Leverkusen,3.0
+252,Bayer Leverkusen,Hamburger SV,1.0
+253,Hannover 96,Köln,3.0
+254,Borussia Dortmund,Borussia M'gladbach,1.0
+255,RB Leipzig,Eintracht Frankfurt,2.0
+256,Hoffenheim,Schalke 04,1.0
+257,Werder Bremen,Freiburg,3.0
+258,Mainz 05,Hertha BSC,2.0
+259,Stuttgart,Augsburg,3.0
+260,Bayern München,Wolfsburg,3.0
+261,Hertha BSC,Bayer Leverkusen,2.0
+262,Freiburg,Hannover 96,3.0
+263,Hamburger SV,Borussia Dortmund,5.0
+264,Mainz 05,Hoffenheim,4.0
+265,Köln,Eintracht Frankfurt,4.0
+266,Schalke 04,Bayern München,5.0
+267,Augsburg,RB Leipzig,2.0
+268,Wolfsburg,Werder Bremen,3.0
+269,Borussia M'gladbach,Stuttgart,1.0
+270,Borussia Dortmund,Köln,1.0
+271,Bayer Leverkusen,Freiburg,1.0
+272,Hoffenheim,Hertha BSC,3.0
+273,RB Leipzig,Borussia M'gladbach,3.0
+274,Bayern München,Mainz 05,1.0
+275,Werder Bremen,Schalke 04,4.0
+276,Eintracht Frankfurt,Augsburg,4.0
+277,Stuttgart,Wolfsburg,2.0
+278,Hannover 96,Hamburger SV,1.0
+279,Schalke 04,Stuttgart,1.0
+280,Hertha BSC,Werder Bremen,3.0
+281,Hoffenheim,Bayern München,1.0
+282,Freiburg,Borussia Dortmund,3.0
+283,Borussia M'gladbach,Eintracht Frankfurt,4.0
+284,Augsburg,Köln,1.0
+285,Mainz 05,Bayer Leverkusen,1.0
+286,Wolfsburg,Hannover 96,3.0
+287,Hamburger SV,RB Leipzig,5.0
+288,Hannover 96,Schalke 04,2.0
+289,RB Leipzig,Freiburg,1.0
+290,Borussia Dortmund,Hertha BSC,1.0
+291,Werder Bremen,Bayern München,5.0
+292,Eintracht Frankfurt,Wolfsburg,4.0
+293,Bayer Leverkusen,Hoffenheim,3.0
+294,Augsburg,Borussia M'gladbach,3.0
+295,Stuttgart,Mainz 05,2.0
+296,Köln,Hamburger SV,5.0
+297,Borussia M'gladbach,Köln,2.0
+298,Freiburg,Eintracht Frankfurt,3.0
+299,Schalke 04,RB Leipzig,1.0
+300,Hoffenheim,Werder Bremen,2.0
+301,Hertha BSC,Stuttgart,1.0
+302,Hamburger SV,Augsburg,2.0
+303,Mainz 05,Hannover 96,4.0
+304,Wolfsburg,Borussia Dortmund,5.0
+305,Bayern München,Bayer Leverkusen,1.0
